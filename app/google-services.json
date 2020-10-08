@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "39566260900",
+    "firebase_url": "https://security-9bdbf.firebaseio.com",
+    "project_id": "security-9bdbf",
+    "storage_bucket": "security-9bdbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:39566260900:android:c41993e85d6e2d05d18431",
+        "android_client_info": {
+          "package_name": "com.arthava.womensafety"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "39566260900-hrlua1hk1r259soq99lnqp456ah9i0fq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arthava.womensafety",
+            "certificate_hash": "a886e95957c3d5b6569adb515fdf834ce282d350"
+          }
+        },
+        {
+          "client_id": "39566260900-12ci6mhfmj484fn68jt3isspl2kbpaj0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbqGkwvy3dC6uYnzx488ed-1xCzgPu6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "39566260900-12ci6mhfmj484fn68jt3isspl2kbpaj0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
